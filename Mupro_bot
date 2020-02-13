@@ -1,0 +1,2 @@
+bot = telegram.Bot(token='1097956542:AAGfXxTQCz-gm9c1AT-slTI7b1YE3lDpT7s')
+bot.send_message(chat_id='@RexToo', text="NIHAOMA")
